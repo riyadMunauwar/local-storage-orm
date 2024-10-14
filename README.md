@@ -20,12 +20,7 @@ _A lightweight, Laravel-inspired ORM for the browser using `localStorage`._
 
 ## 📦 **Installation**
 
-You can use it directly by importing the JavaScript files or installing it via **npm**.
-
-### Using NPM (coming soon)
-```bash
-npm install local-storage-orm
-```
+You can use it directly by importing the JavaScript files 
 
 ### Manual Import (ES6)
 ```javascript
