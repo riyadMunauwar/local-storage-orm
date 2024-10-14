@@ -120,11 +120,12 @@ console.log(paginatedUsers.toArray());
 
 ```
 /local-storage-orm
-│
-├── index.js         # Entry point
-├── model.js         # ORM Model logic
-├── collection.js    # Collection handling logic
-└── utils.js         # Helper functions for storage & serialization
+  /src
+    │
+    ├── index.js         # Entry point
+    ├── model.js         # ORM Model logic
+    ├── collection.js    # Collection handling logic
+    └── utils.js         # Helper functions for storage & serialization
 ```
 
 ---
